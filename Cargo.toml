@@ -1,0 +1,8 @@
+[package]
+name = "votre_projet"
+version = "0.1.0"
+edition = "2018"
+
+[[bin]]
+name = "votre_application"
+path = "src/main.rs"
